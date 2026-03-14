@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Be healthy</string>
+    <string name="calcul_poids">Donnez votre poids</string>
+    <string name="calcul_taille">Donnez votre taille</string>
+    <string name="calcul_IMC">Calculer mon IMC</string>
+    <string name="app_desc">Cette application permet de calculer l’indice de Masse Corporelle (IMC)</string>
+    <string name="titre_inscription">Inscription</string>
+    <string name="hint_nom">Nom</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_mot_de_passe">Mot de passe</string>
+    <string name="btn_inscrire">S\'inscrire</string>
+    <string name="bienvenue">Bienvenue sur Be Healthy</string>
+    <string name="btn_calculer_imc">Calculer IMC</string>
+    <string name="titre_auth">Authentification</string>
+    <string name="btn_connecter">Se connecter</string>
+    <string name="poids_hint">Poids (kg)</string>
+    <string name="taille_hint">Taille (cm)</string>
+    <string name="btn_calculer">Calculer</string>
+    <string name="resultat_imc">Votre IMC est : %1$s\nStatut : %2$s</string>
+    <string name="titre_accueil">Bienvenue STIC L2 SR 2025/2026</string>
+    <string name="btn_voir_catalogue">Voir le Catalogue</string>
+    <string name="produit1">Produit 1 : Raquette de Plage Tennis</string>
+    <string name="produit2">Produit 2 : Ballon de Gym</string>
+    <string name="produit3">Produit 3 : Tapis Training</string>
+    <string name="produit4">Produit 4 : Équipements Sportifs</string>
+    <string name="produit5">Produit 5 : Appareils Connectés</string>
+    <string name="btn_acheter">Acheter</string>
+</resources>
