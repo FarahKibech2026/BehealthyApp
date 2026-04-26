@@ -3,7 +3,7 @@
     <string name="calcul_poids">Donnez votre poids</string>
     <string name="calcul_taille">Donnez votre taille</string>
     <string name="calcul_IMC">Calculer mon IMC</string>
-    <string name="app_desc">Cette application permet de calculer l’indice de Masse Corporelle (IMC)</string>
+    <string name="app_desc">Cette application permet de calculer l\\'indice de Masse Corporelle (IMC)</string>
     <string name="titre_inscription">Inscription</string>
     <string name="hint_nom">Nom</string>
     <string name="hint_email">Email</string>
@@ -25,4 +25,20 @@
     <string name="produit4">Produit 4 : Équipements Sportifs</string>
     <string name="produit5">Produit 5 : Appareils Connectés</string>
     <string name="btn_acheter">Acheter</string>
+    <string-array name="products">
+        <item>Tapis de course</item>
+        <item>Vélo elliptique</item>
+        <item>Machine de musculation</item>
+        <item>Rameur</item>
+        <item>Vélo stationnaire</item>
+        <item>Tapis de yoga</item>
+        <item>Ballon de pilates</item>
+        <item>Bandes élastiques</item>
+        <item>Haltères</item>
+        <item>Accessoires de yoga</item>
+    </string-array>
+
+
+
+
 </resources>
